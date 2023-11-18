@@ -1,0 +1,36 @@
+body{
+background-color: rgb(235, 243, 245);
+}
+h1{
+color: blue;
+}
+h3{
+    color: blue;
+    }
+p{
+color: black;
+border: 2px solid rgb(154, 210, 215);
+margin: 20px;
+padding: 20px;
+text-align: justify;
+}
+
+a:link{
+color: green;
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: pink;
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+}
